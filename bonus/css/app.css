@@ -1,3 +1,12 @@
+/* MEDIA-QUERY FOR 1160px */
+
+@media screen and (max-width: 1160px) {
+
+    .container {
+        max-width: 100%;
+    }
+}
+
 /* MEDIA-QUERY FOR 768px */
 
 @media screen and (max-width: 768px) {
